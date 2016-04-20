@@ -1,0 +1,24 @@
+{
+  "name": "body-to-query",
+  "version": "1.0.0",
+  "description": "json obj to query string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrenth04/body2Query.git"
+  },
+  "keywords": [
+    "json",
+    "query",
+    "querystring"
+  ],
+  "author": "Phil Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wrenth04/body2Query/issues"
+  },
+  "homepage": "https://github.com/wrenth04/body2Query#readme"
+}
